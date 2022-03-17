@@ -294,7 +294,6 @@
       "robofac_gun",
       "obrez",
       "mk47"
-
     ],
     "type": "MIGRATION",
     "replace": "rifle_sporter"
